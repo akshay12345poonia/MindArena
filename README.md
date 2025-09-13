@@ -17,6 +17,7 @@ MindArena is a fun and engaging mini-game hub featuring **Flappy Bird**, **Block
    ```bash
    git clone https://github.com/your-username/mindarena.git
    cd mindarena
+   npm install
 
 2. play game:
     https://mind-arena.netlify.app/
