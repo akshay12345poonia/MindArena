@@ -8,9 +8,9 @@ MindArena is a fun and engaging mini-game hub featuring **Flappy Bird**, **Block
 - 🔤 **Word Search** – Expand your vocabulary and find hidden words quickly.
 
 ## 🛠️ Tech Stack
-- **Frontend:** HTML, CSS, JavaScript (or React if used)
-- **Styling:** TailwindCSS (if used) / Vanilla CSS
-- **Game Logic:** JavaScript for interactions and animations
+- **Frontend:** ReactJS, React-router-dom, Canva
+- **Styling:** TailwindCSS
+- **Game Logic:** Canva
 
 ## 📦 Installation & Setup
 1. Clone this repository  
