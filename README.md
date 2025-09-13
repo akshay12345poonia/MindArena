@@ -1,12 +1,22 @@
-# React + Vite
+# 🎮 MindArena Game Hub
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+MindArena is a fun and engaging mini-game hub featuring **Flappy Bird**, **Block Puzzle**, and **Word Search** — designed to challenge your reflexes, logic, and vocabulary in one place.
 
-Currently, two official plugins are available:
+## 🚀 Features
+- 🐦 **Flappy Bird** – Test your reflexes and timing as you navigate through obstacles.
+- 🧩 **Block Puzzle** – Sharpen your problem-solving skills by fitting blocks perfectly.
+- 🔤 **Word Search** – Expand your vocabulary and find hidden words quickly.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Tech Stack
+- **Frontend:** HTML, CSS, JavaScript (or React if used)
+- **Styling:** TailwindCSS (if used) / Vanilla CSS
+- **Game Logic:** JavaScript for interactions and animations
 
-## Expanding the ESLint configuration
+## 📦 Installation & Setup
+1. Clone this repository  
+   ```bash
+   git clone https://github.com/your-username/mindarena.git
+   cd mindarena
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+2. play game:
+    https://mind-arena.netlify.app/
